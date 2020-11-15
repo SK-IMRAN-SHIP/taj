@@ -1,0 +1,124 @@
+* {
+    margin: 0px;
+    padding: 0px 0px 0px;
+    padding-bottom: -5000px;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.backgroung,
+img {
+    height: 100%;
+    width: 100%;
+    background: black;
+}
+
+.navbar,
+li,
+a {
+    position: relative;
+    bottom: 320px;
+    color: white;
+    display: inline;
+    text-decoration: none;
+    left: -40px;
+    font-size: large;
+}
+
+.navbar,
+li,
+a {
+    float: right;
+    margin: 5px;
+}
+
+.navbar,
+li:hover {
+    color: yellow;
+}
+
+h1 {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    left: 140px;
+    bottom: 710px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+p {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    bottom: 620px;
+    left: 140px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 4rem;
+}
+
+#one {
+    position: relative;
+    bottom: 125px;
+    right: 550px;
+    margin: auto;
+    width: 150px;
+    height: 35px;
+    border: 2px solid whitesmoke;
+    cursor: pointer;
+}
+
+#one:hover {
+    background-color: red;
+    color: white;
+    border: 2px solid white;
+}
+
+#two {
+    position: relative;
+    bottom: 440px;
+    width: 150px;
+    height: 35px;
+    border: 2px solid #00b894;
+    background-color: #00b894;
+    cursor: pointer;
+}
+
+#two:hover {
+    background-color: orange;
+    color: black;
+    border: 2px solid lightblue;
+}
+
+span {
+    color: #00b894;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logo {
+    color: white;
+    position: relative;
+    bottom: 1100px;
+    padding: -80px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+#imran {
+    position: relative;
+    left: 70px;
+    font-size: 1rem;
+}
